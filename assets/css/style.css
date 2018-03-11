@@ -1,0 +1,36 @@
+body{
+    background-color: pink;
+}
+h1{
+    background-color: aqua;
+    color:grey;
+    font-size: 32px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;;
+}
+p{
+    color:white;
+    background-color:teal;
+}
+#random-number{
+    background-color: aqua;
+    color: grey;
+    font-size: 32px;
+}
+.panel{
+    background-color: aqua;
+}
+#wins{
+    font-size: 28px;
+}
+#losses{
+    font-size: 28px;
+}
+h2, h3, h4{
+    background-color: teal;
+    color:white;
+}
+#user-number{
+    background-color: aqua;
+    color: grey;
+    font-size: 32px;
+}
